@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="@string/Home" />
+        <item
+            android:id="@+id/budgetSetup"
+            android:title="@string/budgetSetup" />
+        <item
+            android:id="@+id/budgetReview"
+            android:title="@string/budgetReview" />
+        <item
+            android:id="@+id/receiptSetup"
+            android:title="@string/receiptEntry" />
+        <item
+            android:id="@+id/receiptReview"
+            android:title="@string/receiptReview" />
+
+            <item
+                android:title="@string/logout"
+                android:id="@+id/logout"/>
+        </group>
+
+
+</menu>

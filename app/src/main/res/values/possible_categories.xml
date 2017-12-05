@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="category">
+        <item>Food</item>
+        <item>Gas</item>
+        <item>Groceries</item>
+        <item>Rent</item>
+        <item>Phone bill</item>
+        <item>walmart</item>
+        <item>Home Depot</item>
+        <item>Extra spending</item>
+    </string-array>
+</resources>

@@ -1,0 +1,4 @@
+include ':app'
+include ':androidMagick'
+include ':androidMagick'
+include ':androidMagick'
